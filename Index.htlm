@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Inicio</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<div id="header">
+		<h1>Bienvenidos a mi pagina web</h1>
+		<ul>
+				<li><a href="index.html">Inicio</a></li>
+				<li><a href="sobre-mi.html"> Sobre mi</a></li>
+				<li><a href="contact.html"> Contactame</a></li>
+
+		</ul>
+	</div> 
+	<div id="content">
+		<h2>Inicio</h2>
+		<p>Esta es mi tabla de horarios semanales</p>
+		<table cellspacing="0">
+			<tr>
+				<th></th>
+				<th>Lunes</th>
+				<th>Martes</th>
+				<th>Miercoles</th>
+				<th>Jueves</th>
+				<th>Viernes</th>
+				
+			</tr>
+			<tr>
+				<th>9.00 - 10.00</th>
+				<td>Desayuno</td>
+				<td>Desayuno</td>
+				<td>Programacion</td>
+				<td>Dormir</td>
+				<td>comer</td>
+				
+			</tr>
+			<tr>
+				<th>9.00 - 10.00</th>
+				<td>Desayuno</td>
+				<td>Desayuno</td>
+				<td>comer</td>
+				<td>Dormir</td>
+				<td>Programacion</td>
+				
+			</tr>
+			<tr>
+				<th>9.00 - 10.00</th>
+				<td>Desayuno</td>
+				<td>Desayuno</td>
+				<td>Gym</td>
+				<td>Dormir</td>
+				<td>Dormir</td>
+				
+			</tr>
+		</table>
+	</div>
+</body>
+</html>
